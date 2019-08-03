@@ -1,9 +1,8 @@
 {
     "i18n.index": "Index",
-    "i18n.successful-case": "FUNCTOR",
-    "i18n.Intelligence-test": "SITE",
-    "i18n.evaluation": "EVALUATION",
-    "i18n.practice": "PRACTICE",
-    "i18n.cooperation": "COOPERATE",
-    "i18n.login": "LOGIN"
-}
+    "i18n.downLoad": "Data DownLoad",
+    "i18n.papers": "Papers",
+    "i18n.teamMember": "Team Members",
+    "i18n.contact": "Contact",
+    "i18n.languages": "Languages"
+ }
